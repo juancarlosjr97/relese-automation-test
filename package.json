@@ -1,0 +1,13 @@
+{
+  "name": "relese-automation-test",
+  "version": "1.0.0",
+  "scripts": {
+    "release": "release-it --ci --VV",
+    "release-dry-run": "release-it --ci --VV --dry-run"
+  },
+  "dependencies": {
+    "@release-it/bumper": "^6.0.1",
+    "@release-it/conventional-changelog": "9.0.3",
+    "release-it": "17.10.0"
+  }
+}
