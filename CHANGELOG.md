@@ -3,6 +3,15 @@
 This changelog is auto generated using release-it.
 
 
+## [1.2.0](https://github.com/juancarlosjr97/relese-automation-test/compare/1.1.0...1.2.0) (2024-12-08)
+
+### Features
+
+* changes ([741f023](https://github.com/juancarlosjr97/relese-automation-test/commit/741f023ec6876d04cc145c00589ca1b8687f0cca)), closes [#1](https://github.com/juancarlosjr97/relese-automation-test/issues/1)
+* changes ([59a134e](https://github.com/juancarlosjr97/relese-automation-test/commit/59a134ec410d84abc8e87dba2d33dd23b4531003)), closes [#1](https://github.com/juancarlosjr97/relese-automation-test/issues/1)
+* changes ([74415e7](https://github.com/juancarlosjr97/relese-automation-test/commit/74415e7ef1c3c6c98768b606a98fbdcb09830562)), closes [#1](https://github.com/juancarlosjr97/relese-automation-test/issues/1)
+* changes [#1](https://github.com/juancarlosjr97/relese-automation-test/issues/1) ([b5d89f4](https://github.com/juancarlosjr97/relese-automation-test/commit/b5d89f49976000275fb1e7936f37d5dd7487e7f6))
+
 ## 1.1.0 (2024-12-08)
 
 ### Features
