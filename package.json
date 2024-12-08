@@ -1,6 +1,7 @@
 {
   "name": "relese-automation-test",
   "version": "1.0.0",
+  "private": true,
   "scripts": {
     "release": "release-it --ci --VV",
     "release-dry-run": "release-it --ci --VV --dry-run"
