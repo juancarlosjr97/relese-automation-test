@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [1.3.0](https://github.com/juancarlosjr97/relese-automation-test/compare/1.2.0...1.3.0) (2024-12-08)
+
+### Features
+
+* issue resolve [#1](https://github.com/juancarlosjr97/relese-automation-test/issues/1) ([cd37dee](https://github.com/juancarlosjr97/relese-automation-test/commit/cd37dee9e402a6f83beb27ac78b250331a36dc4d))
+
 ## [1.2.0](https://github.com/juancarlosjr97/relese-automation-test/compare/1.1.0...1.2.0) (2024-12-08)
 
 ### Features
